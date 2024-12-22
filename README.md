@@ -3,7 +3,7 @@
 
 # date: 2024/12/22
 # version: 1.0.0 - for internal use only
-# features: to search music using Itunes API
+# features: to search music using iTunes API
 
 ## Prerequisites
 1. Flutter SDK 3.27.1
