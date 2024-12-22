@@ -1,5 +1,5 @@
 # keysoc_project
-# description: A Itunes Music Searcher
+# description: A iTunes Music Searcher
 
 # date: 2024/12/22
 # version: 1.0.0 - for internal use only
